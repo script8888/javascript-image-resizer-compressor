@@ -2,10 +2,6 @@
 
 This code provides a function to compress an image file while maintaining its aspect ratio. The function takes in a file object, a maximum width, and a maximum height as input and returns a Blob object.
 
-## Installation
-
-No installation is necessary for this code. Simply copy and paste the function into your JavaScript file.
-
 ## Usage
 
 To use the function, call it with the following parameters:
